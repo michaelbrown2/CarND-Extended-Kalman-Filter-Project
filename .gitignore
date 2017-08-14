@@ -2,7 +2,7 @@
 .DS_Store
 
 # build files
-build/
+#build/
 
 # editor config
 .vscode/
